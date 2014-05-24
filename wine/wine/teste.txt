@@ -1,0 +1,10 @@
+
+lambida = 13.500000
+Teta:
+0.998894;0.091041;0.044887;-0.011205;0.040945;0.002411;-0.016437;-0.320429;0.106866;-0.015250;0.077906;0.066417;-0.166074;-0.000950;
+J(x) de valores de treinamento = 0.115251
+J(x) de valores de teste 1 = 0.271139
+J(x) de valores de teste 2 = 0.251585
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 13	Erros acima de 1.0 = 0

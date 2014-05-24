@@ -1,0 +1,122 @@
+
+lambida = 0.100000
+Teta:
+0.907409;-0.017983;0.072824;0.482929;0.001070;0.002144;0.035851;-0.468356;0.900155;0.078889;0.112532;0.724191;-0.164007;-0.000975;
+J(x) de valores de treinamento = 0.066554
+J(x) de valores de teste 1 = 0.078697
+J(x) de valores de teste 2 = 0.057835
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 34	Erros acima de 1.0 = 1
+
+lambida = 1.000000
+Teta:
+0.921441;0.017604;0.046757;0.355889;0.010206;0.002018;0.022951;-0.458524;0.738496;0.054633;0.103498;0.595703;-0.178168;-0.000935;
+J(x) de valores de treinamento = 0.056935
+J(x) de valores de teste 1 = 0.071935
+J(x) de valores de teste 2 = 0.057534
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 27	Erros acima de 1.0 = 1
+
+lambida = 10.000000
+Teta:
+0.907649;0.039470;0.077811;0.174072;0.029950;0.002772;-0.018429;-0.299376;0.345049;0.003327;0.095231;0.255378;-0.134453;-0.001049;
+J(x) de valores de treinamento = 0.050000
+J(x) de valores de teste 1 = 0.063793
+J(x) de valores de teste 2 = 0.030369
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 16	Erros acima de 1.0 = 0
+
+lambida = 100.000000
+Teta:
+2.124656;0.000941;0.051406;-0.008361;0.039868;0.000654;-0.038983;-0.096000;0.005405;-0.030807;0.084135;-0.019834;-0.071603;-0.001293;
+J(x) de valores de treinamento = 0.076161
+J(x) de valores de teste 1 = 0.149540
+J(x) de valores de teste 2 = 0.137379
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 30	Erros acima de 1.0 = 0
+
+lambida = 20.000000
+Teta:
+0.906225;0.051572;0.076868;0.078598;0.040244;0.003091;-0.035023;-0.227613;0.172219;-0.020167;0.091643;0.111677;-0.116505;-0.001108;
+J(x) de valores de treinamento = 0.051254
+J(x) de valores de teste 1 = 0.064851
+J(x) de valores de teste 2 = 0.030914
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 15	Erros acima de 1.0 = 0
+
+RESULTADO ESPERADO 10 20 30
+lambida = 20.000000
+Teta:
+14.781950;0.534226;0.571118;-0.331155;0.442370;0.021449;-0.487428;-2.143621;0.057286;-0.431788;0.844490;-0.287152;-1.327141;-0.010431;
+J(x) de valores de treinamento = 4.533419
+J(x) de valores de teste 1 = 6.613828
+J(x) de valores de teste 2 = 3.553966
+
+Valores com erro inaceitavel:
+Erros acima de 5.0 = 14	Erros acima de 10.0 = 0
+
+lambida = 50.000000
+Teta:
+0.901795;0.046238;0.072407;0.020954;0.049202;0.003662;-0.038462;-0.142669;0.057368;-0.028734;0.089979;0.020645;-0.084382;-0.001226;
+J(x) de valores de treinamento = 0.061741
+J(x) de valores de teste 1 = 0.072215
+J(x) de valores de teste 2 = 0.045672
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 28	Erros acima de 1.0 = 0
+
+lambida = 30.000000
+Teta:
+0.903233;0.050699;0.076861;0.046420;0.044747;0.003329;-0.038765;-0.187488;0.109351;-0.026449;0.091148;0.060762;-0.102518;-0.001157;
+J(x) de valores de treinamento = 0.054880
+J(x) de valores de teste 1 = 0.067318
+J(x) de valores de teste 2 = 0.035298
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 21	Erros acima de 1.0 = 0
+
+lambida = 20.000000
+Teta:
+0.972803;0.076104;0.051510;0.042900;0.038975;0.002556;-0.031934;-0.291822;0.161132;-0.021999;0.084439;0.104773;-0.150746;-0.000999;
+J(x) de valores de treinamento = 0.149454
+J(x) de valores de teste 1 = 0.360080
+J(x) de valores de teste 2 = 0.338794
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 15	Erros acima de 1.0 = 0
+
+lambida = 15.000000
+Teta:
+0.988001;0.085987;0.046264;0.010968;0.039876;0.002443;-0.022118;-0.313644;0.133573;-0.017270;0.080309;0.086106;-0.161904;-0.000964;
+J(x) de valores de treinamento = 0.123220
+J(x) de valores de teste 1 = 0.291236
+J(x) de valores de teste 2 = 0.271024
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 13	Erros acima de 1.0 = 0
+
+lambida = 17.500000
+Teta:
+0.989048;0.086909;0.047880;0.000210;0.041369;0.002501;-0.027521;-0.298238;0.105224;-0.022762;0.080149;0.060799;-0.157397;-0.000976;
+J(x) de valores de treinamento = 0.135647
+J(x) de valores de teste 1 = 0.325823
+J(x) de valores de teste 2 = 0.305112
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 14	Erros acima de 1.0 = 0
+
+
+lambida = 13.500000
+Teta:
+0.998894;0.091041;0.044887;-0.011205;0.040945;0.002411;-0.016437;-0.320429;0.106866;-0.015250;0.077906;0.066417;-0.166074;-0.000950;
+J(x) de valores de treinamento = 0.115251
+J(x) de valores de teste 1 = 0.271139
+J(x) de valores de teste 2 = 0.251585
+
+Valores com erro inaceitavel:
+Erros acima de 0.5 = 13	Erros acima de 1.0 = 0
